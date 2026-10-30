@@ -1,0 +1,133 @@
+/* buttons */
+a:hover {
+  color: red;
+}
+
+#body {
+  background-color: rgb(155, 194, 222);
+}
+
+
+/* Home */
+#header {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(140, 171, 194);
+  color: white;
+  border: 3px solid black;
+  text-decoration: underline;
+  text-shadow: 2px 2px #555555;
+}
+
+#welcome {
+  display: flex;
+  justify-content: center;
+  border: 2px dotted blue;
+}
+
+#bam {
+  display: flex;
+  justify-content: center;
+  width: 96vw;
+}
+
+#H-I {
+  display: flex;
+  justify-content: center;
+  width: 96vw;
+}
+
+#contact {
+  display: flex;
+  justify-content: center;
+  width: 96vw;
+  text-decoration: underline;
+  border: 1px dotted blue;
+}
+
+#prefered {
+  display: flex;
+  justify-content: center;
+  width: 96vw;
+}
+
+#phone {
+  display: flex;
+  justify-content: center;
+  width: 96vw;
+}
+
+#email {
+  display: flex;
+  justify-content: center;
+  width: 96vw;
+}
+
+/* Experience page */
+
+#experience {
+  display: flex;
+  justify-content: center;
+  width: 96vw;
+  text-decoration: underline;
+}
+
+#A-B-title {
+  display: flex;
+  justify-content: center;
+  width: 96vw;
+}
+
+#resume-image {
+  justify-content: center;
+  display: flex;
+  width: 96vw;
+}
+
+#JAT {
+  display: flex;
+  justify-content: center;
+  width: 96vw;
+}
+
+#job-about {
+  display: flex;
+  justify-content: center;
+  width: 96vw;
+}
+
+/* About Me page */
+ 
+#about-me {
+  display: flex;
+  justify-content: center;
+  width: 96vw;
+}
+
+#hobby-about {
+  display: flex;
+  justify-content: center;
+  width: 96vw;
+}
+
+#hobby-images {
+  display: flex;
+  justify-content: center;
+  width: 96vw;
+}
+
+ 
+/* Footer  FIX LATER */
+
+#footer {
+  border: 2px solid blue;
+  background-color: rgb(155, 194, 222);
+}
+
+body {
+  background: #fff;
+  color: #000;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
