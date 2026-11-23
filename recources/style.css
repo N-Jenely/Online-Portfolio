@@ -1,12 +1,9 @@
 /* buttons */
 a:hover {
   color: red;
+  font-style: italic;
+  font-weight: bold;
 }
-
-#body {
-  background-color: rgb(155, 194, 222);
-}
-
 
 /* Home */
 #header {
@@ -36,7 +33,7 @@ a:hover {
   justify-content: center;
   margin-left : 615px;
   width: 250px;
-  aspect-ratio: 5.75/6.25;
+  aspect-ratio: 1/1;
   border-radius: 50%;
   border: 5px solid rgb(255, 0, 76);
 }
@@ -193,8 +190,8 @@ a:hover {
 /* Footer  FIX LATER */
 
 #footer {
-  border: 2px solid rgb(0, 38, 255);
   background-color: rgb(155, 194, 222);
+  border: 2px dotted blue;
 }
 
 body {
@@ -202,5 +199,6 @@ body {
   color: #000;
   padding: 25px;
   font-family: sans-serif;
+  border: 2px solid blue;
 }
 
